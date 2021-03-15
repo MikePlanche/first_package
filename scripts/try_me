@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from first_package.lib import try_me
+
+try_me()
+
+
